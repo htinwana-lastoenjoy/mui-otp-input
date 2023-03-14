@@ -192,7 +192,7 @@ const MuiOtpInput = React.forwardRef(
     return (
       <Box
         display="flex"
-        gap="20px"
+        gap="10px"
         alignItems="center"
         ref={propRef}
         className={`MuiOtpInput-Box ${className || ''}`}
